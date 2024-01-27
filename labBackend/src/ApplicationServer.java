@@ -1,6 +1,6 @@
 import labServer.Server;
 
-//Angelica estuvo aqui
+//Angelica estuvo aqui x2 :V
 public class ApplicationServer {
     public static void main(String[] args) {
         Server server = new Server();//instanciamos el server
