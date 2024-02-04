@@ -2,5 +2,18 @@
 <data>
   <actions>
     <action>El cliente num: 2 a creado  un tipo instrumento: 4</action>
+    <action>El cliente num: 2 a creado  un tipo instrumento: 1</action>
+    <action>El cliente num: 2 a creado  un instrumento: 2</action>
+    <action>El cliente num: 2 a actualizado un instrumento: 2</action>
+    <action>El cliente num: 2 a actualizado un instrumento: 2</action>
+    <action>El cliente num: 2 a creado  una calibracion: 1</action>
+    <action>El cliente num: 2 a actualizado un instrumento: 2</action>
+    <action>El cliente num: 2 a eliminado  un tipo instrumento: 1</action>
+    <action>El cliente num: 1 a actualizado un instrumento: 3</action>
+    <action>El cliente num: 1 a creado  un instrumento: 3</action>
+    <action>El cliente num: 2 a eliminado  un tipo instrumento: 1</action>
+    <action>El cliente num: 2 a creado  un tipo instrumento: 1</action>
+    <action>El cliente num: 1 a creado  un instrumento: 2</action>
+    <action>El cliente num: 2 a eliminado  un tipo instrumento: 1</action>
   </actions>
 </data>
