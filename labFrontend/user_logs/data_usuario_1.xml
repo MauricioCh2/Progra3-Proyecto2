@@ -18,5 +18,10 @@
     <action>El cliente num: 1 a creado  un tipo instrumento: 1</action>
     <action>El cliente num: 1 a creado  un instrumento: 1</action>
     <action>El cliente num: 1 a creado  una calibracion: 1</action>
+    <action>El cliente num: 1 a actualizado un tipo instrumento: 1</action>
+    <action>El cliente num: 1 a creado  un tipo instrumento: 2</action>
+    <action>El cliente num: 1 a eliminado  un instrumento: 1</action>
+    <action>El cliente num: 1 a creado  un instrumento: 1</action>
+    <action>El cliente num: 1 a creado  una calibracion: 1</action>
   </actions>
 </data>
