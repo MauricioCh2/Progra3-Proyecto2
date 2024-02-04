@@ -15,5 +15,7 @@
     <action>El cliente num: 2 a creado  un tipo instrumento: 1</action>
     <action>El cliente num: 1 a creado  un instrumento: 2</action>
     <action>El cliente num: 2 a eliminado  un tipo instrumento: 1</action>
+    <action>El cliente num: 2 a actualizado una calibracion: 3</action>
+    <action>El cliente num: 2 a actualizado una calibracion: 3</action>
   </actions>
 </data>
